@@ -30,11 +30,6 @@
                 "type": "font"
             },
             {
-                "file": "images/icon.png",
-                "name": "IMAGES_ICON_PNG",
-                "type": "png"
-            },
-            {
                 "file": "images/pause.png",
                 "name": "IMAGES_PAUSE_PNG",
                 "type": "png"
